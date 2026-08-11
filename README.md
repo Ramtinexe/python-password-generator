@@ -21,7 +21,7 @@ A simple command-line password generator built with Python.
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/python-password-generator.git
+git clone https://github.com/Ramtinexe/python-password-generator.git
 ```
 
 3. Navigate to the project folder:
